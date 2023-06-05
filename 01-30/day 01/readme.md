@@ -10,14 +10,14 @@ I will list everything I learned from the site in this Repository , to be access
 ### JavaScript is the language of the web
 JavaScript is used to add interactivity to websites, to develop mobile apps, desktop applications, games and nowadays JavaScript can be used for machine learning and AI. JavaScript (JS) has increased in popularity in recent years and has been the leading programming language for six consecutive years and is the most used programming language on Github.
 
-### Setup ⚙ 
+### Setup ظأآ 
 #### Install Node.js 
 download from [Node.js](https://nodejs.org/en) the LTS [ life time support package] 
 to check if you already have Node.js installed on your machine , or to check what version of Node we had 
 by opening the device terminal [ command prompt] and run this command 
 `node --version`  OR  `node -v` 
 
-### Browser 🌐 
+### Browser ≡اî 
 #### Google Chrome 
 Install [Google Chrome](https://www.google.com/chrome/) - we don't use the browser console to develop applications but we can write small JS code 
 
@@ -105,3 +105,4 @@ the external script file  `script.js` , the html code look like
   </body>
 </html> 
 ```
+
