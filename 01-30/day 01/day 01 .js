@@ -130,15 +130,24 @@ let var4 ;
 
 //* Solution : 
 
-const firstName = "Abdullah";
-const last_name = "Al-Habal";
-const _marital_Status = 1 ; 
+let firstName       = "Abdullah";
+let last_name       = "Al-Habal";
+let _marital_Status = 1 ; 
+let country         = "Syria";
+let age             = 21 ; 
+
 
 //? 9. Declare variables to store your first name, last name, marital status, country and age in a single line
 
 //* Solution : 
 
+firstName = "Abdullah";  last_name = "Al-Habal";  _marital_Status = 1 ;   country = "Syria";  age = 21 ; 
+
+
 //? 10. Declare two variables myAge and yourAge and assign them initial values and log to the browser console.
 
 //* Solution : 
 
+const myAge   = 21 ; 
+const yourAge = 25 ;
+console.log(myAge , yourAge);
